@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random Number Guessing</string>
+    <string name="play_button">Play</string>
+    <string name="back_button">Back</string>
+    <string name="incorrect_toast">Wrong</string>
+    <string name="correct_toast">Correct</string>
+    <string name="number_question">Please enter a number between 1 and 5.</string>
+    <string name="answer_box">Input answer here:</string>
+    <string name="enter_answer">Enter Answer:</string>
+</resources>
